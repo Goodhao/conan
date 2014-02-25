@@ -1,3 +1,7 @@
+/*
+  By Goodhao
+  http://goodhaoblog.com
+*/
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
